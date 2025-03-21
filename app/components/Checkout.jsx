@@ -12,11 +12,11 @@ const Checkout = () => {
   };
 
   const checkout = async () => {
-    alert("Checkout SNAP! 🌟")
+    alert("Checkout SNAP! 🌟");
   };
 
   const generatePaymentLink = async () => {
-    alert("Checkout Payment Link! 🔥")
+    alert("Checkout Payment Link! 🔥");
   };
 
   return (
